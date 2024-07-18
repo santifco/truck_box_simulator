@@ -15,8 +15,8 @@ with st.expander("Unidad Contenedora 1", expanded=True):
 
 # Expander for the second container unit
 with st.expander("Unidad Contenedora 2", expanded=True):
-    small_rect_width_2 = st.number_input("Ancho del rectángulo pequeño 2 (mm)", value=800)
-    small_rect_height_2 = st.number_input("Profundidad del rectángulo pequeño 2 (mm)", value=1000)
+    small_rect_width_2 = st.number_input("Ancho del rectángulo pequeño 2 (mm)", value=700)
+    small_rect_height_2 = st.number_input("Profundidad del rectángulo pequeño 2 (mm)", value=800)
     altura_small_rect_2 = st.number_input("Altura del rectángulo pequeño 2 (mm)", value=1400)
 
 # Expander for the percentage of container units
